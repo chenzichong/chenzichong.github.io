@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://chenzichong.github.io
+title: 品宣小蓝本
+email: 1182612235@qq.com.com
+author: 陈佳庆
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - title: 微博
+    url: http://weibo.com/coserchina
+  - title: 微信公众号
+    url: https://dwz.cn/QJl4ijJ3
+  - title: 头条号
+    url: https://dwz.cn/5tAgQAeb
