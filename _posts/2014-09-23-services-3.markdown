@@ -2,7 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 文稿件<br>Special Thanks  My Company
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ A 全年季节营销海报[作品链接](http://join.deathtothestockphoto.com/) <br>
+ B 全年季节营销海报[作品链接](http://join.deathtothestockphoto.com/) <br>
