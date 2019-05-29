@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: 设计品<br>Special Thanks  My Company
+title: 设计品<br>Thanks  My Company
 description: |
 ---
   欢迎访问[站酷海报](https://www.zcool.com.cn/work/ZMzYyOTcwNTI=.html/) <br>

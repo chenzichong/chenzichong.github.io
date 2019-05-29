@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: 文稿件<br>Special Thanks  My Company
+title: 文稿件<br>Thanks  My Company
 description: |
 ---
  营销，H5不是首选 <br>
