@@ -5,4 +5,4 @@ category: Services
 title: 设计品<br>Special Thanks  My Company
 description: |
 ---
-  A 平面海报[作品链接](https://www.zcool.com.cn/work/ZMzYyOTcwNTI=.html/) <br>
+  欢迎访问[站酷海报](https://www.zcool.com.cn/work/ZMzYyOTcwNTI=.html/) <br>
